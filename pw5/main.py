@@ -1,6 +1,6 @@
 from input import student_number, student_info, course_number, course_info
 import sys
-sys.path.append('home/saperlam/Code/pp2024/pw5')
+sys.path.append('/pp2024/pw5')
 from domains.student import Student
 
 def input_student_marks(students, courses):
